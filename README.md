@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VihangaT
 - 👀 I’m interested in any development process
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m interested in exploring new technolofies and make colloborate any application development
 - 💞️ I’m looking to collaborate on any of your repositories
 - 📫 How to reach me on github or through email(liyanage.vihanga99@gmail.com)
 
